@@ -1,0 +1,15 @@
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net8.0\LexicalAnalyzer.exe
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net8.0\LexicalAnalyzer.deps.json
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net8.0\LexicalAnalyzer.runtimeconfig.json
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net8.0\LexicalAnalyzer.dll
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\net8.0\LexicalAnalyzer.pdb
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net8.0\LexicalAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net8.0\LexicalAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net8.0\LexicalAnalyzer.AssemblyInfo.cs
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net8.0\LexicalAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net8.0\LexicalAnalyzer.sourcelink.json
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net8.0\LexicalAnalyzer.dll
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net8.0\refint\LexicalAnalyzer.dll
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net8.0\LexicalAnalyzer.pdb
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net8.0\LexicalAnalyzer.genruntimeconfig.cache
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-12\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\net8.0\ref\LexicalAnalyzer.dll
