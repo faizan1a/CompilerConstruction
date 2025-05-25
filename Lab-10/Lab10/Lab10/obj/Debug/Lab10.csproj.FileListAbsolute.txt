@@ -1,0 +1,2 @@
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\Lab10\Lab10\bin\Debug\Lab10.exe.config
+F:\cc labs\All complete labs\Lab10\Lab10\bin\Debug\Lab10.exe.config

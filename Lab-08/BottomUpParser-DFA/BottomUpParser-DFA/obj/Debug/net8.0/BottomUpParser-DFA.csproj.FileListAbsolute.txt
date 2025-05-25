@@ -1,0 +1,15 @@
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\bin\Debug\net8.0\BottomUpParser-DFA.exe
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\bin\Debug\net8.0\BottomUpParser-DFA.deps.json
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\bin\Debug\net8.0\BottomUpParser-DFA.runtimeconfig.json
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\bin\Debug\net8.0\BottomUpParser-DFA.dll
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\bin\Debug\net8.0\BottomUpParser-DFA.pdb
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\obj\Debug\net8.0\BottomUpParser-DFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\obj\Debug\net8.0\BottomUpParser-DFA.AssemblyInfoInputs.cache
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\obj\Debug\net8.0\BottomUpParser-DFA.AssemblyInfo.cs
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\obj\Debug\net8.0\BottomUpParser-DFA.csproj.CoreCompileInputs.cache
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\obj\Debug\net8.0\BottomUpParser-DFA.sourcelink.json
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\obj\Debug\net8.0\BottomUpParser-DFA.dll
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\obj\Debug\net8.0\refint\BottomUpParser-DFA.dll
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\obj\Debug\net8.0\BottomUpParser-DFA.pdb
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\obj\Debug\net8.0\BottomUpParser-DFA.genruntimeconfig.cache
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-08\BottomUpParser-DFA\BottomUpParser-DFA\obj\Debug\net8.0\ref\BottomUpParser-DFA.dll

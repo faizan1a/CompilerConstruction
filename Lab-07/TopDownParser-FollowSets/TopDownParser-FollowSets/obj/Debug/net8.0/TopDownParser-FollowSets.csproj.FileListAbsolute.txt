@@ -1,0 +1,15 @@
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\bin\Debug\net8.0\TopDownParser-FollowSets.exe
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\bin\Debug\net8.0\TopDownParser-FollowSets.deps.json
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\bin\Debug\net8.0\TopDownParser-FollowSets.runtimeconfig.json
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\bin\Debug\net8.0\TopDownParser-FollowSets.dll
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\bin\Debug\net8.0\TopDownParser-FollowSets.pdb
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\obj\Debug\net8.0\TopDownParser-FollowSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\obj\Debug\net8.0\TopDownParser-FollowSets.AssemblyInfoInputs.cache
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\obj\Debug\net8.0\TopDownParser-FollowSets.AssemblyInfo.cs
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\obj\Debug\net8.0\TopDownParser-FollowSets.csproj.CoreCompileInputs.cache
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\obj\Debug\net8.0\TopDownParser-FollowSets.sourcelink.json
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\obj\Debug\net8.0\TopDownParser-FollowSets.dll
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\obj\Debug\net8.0\refint\TopDownParser-FollowSets.dll
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\obj\Debug\net8.0\TopDownParser-FollowSets.pdb
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\obj\Debug\net8.0\TopDownParser-FollowSets.genruntimeconfig.cache
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Lab-07\TopDownParser-FollowSets\TopDownParser-FollowSets\obj\Debug\net8.0\ref\TopDownParser-FollowSets.dll
