@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Top-Down-Parser/1.0.0": {
+        "runtime": {
+          "Top-Down-Parser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Top-Down-Parser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

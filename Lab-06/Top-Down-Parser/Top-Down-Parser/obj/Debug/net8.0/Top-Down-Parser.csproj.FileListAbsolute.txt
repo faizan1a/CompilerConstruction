@@ -1,0 +1,15 @@
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\obj\Debug\net8.0\Top-Down-Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\obj\Debug\net8.0\Top-Down-Parser.AssemblyInfoInputs.cache
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\obj\Debug\net8.0\Top-Down-Parser.AssemblyInfo.cs
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\obj\Debug\net8.0\Top-Down-Parser.csproj.CoreCompileInputs.cache
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\obj\Debug\net8.0\Top-Down-Parser.sourcelink.json
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\bin\Debug\net8.0\Top-Down-Parser.exe
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\bin\Debug\net8.0\Top-Down-Parser.deps.json
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\bin\Debug\net8.0\Top-Down-Parser.runtimeconfig.json
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\bin\Debug\net8.0\Top-Down-Parser.dll
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\bin\Debug\net8.0\Top-Down-Parser.pdb
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\obj\Debug\net8.0\Top-Down-Parser.dll
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\obj\Debug\net8.0\refint\Top-Down-Parser.dll
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\obj\Debug\net8.0\Top-Down-Parser.pdb
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\obj\Debug\net8.0\Top-Down-Parser.genruntimeconfig.cache
+C:\Users\Moavi\OneDrive\Desktop\Compiler-Construction-Tasks\Top-Down-Parser\Top-Down-Parser\obj\Debug\net8.0\ref\Top-Down-Parser.dll
